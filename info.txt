@@ -1,0 +1,1 @@
+Module:IP is a library for working with IP addresses and subnets. It can handle both IPv4 and IPv6. The library exports four classes, IPAddress, Subnet, IPv4Collection, and IPv6Collection. 
