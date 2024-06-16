@@ -48,7 +48,7 @@ function action(host, port)
                 return username .. ":" .. password
             end
         end
-        unpwdb.reset_usernames()  -- Reset usernames iterator
+        unpwdb.reset_usernames()
     end
     return "fail"
 end
